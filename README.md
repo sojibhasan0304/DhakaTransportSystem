@@ -79,10 +79,3 @@ Features:
 - Role-based access
 - Customer and employee separation
 
-Example roles:
-
-```cpp
-enum class Role {
-    Customer,
-    Employee
-};
