@@ -1,6 +1,6 @@
 # 🚌 Dhaka City Transport System
 
-## 📌 Project Overview
+## 📌 Project Overview:
 
 The **Dhaka City Transport System** is a C++ Object-Oriented Programming project designed to manage a basic public transportation system for Dhaka city.
 
@@ -9,7 +9,7 @@ This project is developed based on a **UML use case diagram** and **UML class di
 The main goal of this project is to demonstrate proper use of **OOP concepts** such as encapsulation, inheritance, polymorphism, abstraction, class relationships, and modular code design.
 
 
-## 🎯 Project Objectives
+## 🎯 Project Objectives:
 
 The main objectives of this project are:
 
@@ -25,7 +25,7 @@ The main objectives of this project are:
 
 ---
 
-## 👥 System Users
+## 👥 System Users:
 
 The system has two main types of users:
 
@@ -70,7 +70,7 @@ Employee activities include:
 
 ### 🔐 Authentication System
 
-The system includes a simple authentication module.
+The system includes a simple authentication module that is.
 
 Features:
 
